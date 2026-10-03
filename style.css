@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.heading {
+  font-family: 'Playfair Display', serif;
+}
+
+a.button {
+  transition: all 0.3s ease;
+}
+
+a.button:hover {
+  transform: scale(1.05);
+}
