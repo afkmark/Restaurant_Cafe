@@ -30,7 +30,15 @@ A PHP-based restaurant cafe management system built for managing products, order
 1. Clone the repository.
 2. Place the project inside your XAMPP `htdocs` folder.
 3. Install Composer dependencies:
+
    ```bash
    composer install
+   ```
+4. Create the MySQL database.
+5. Configure your local `db.php`.
+6. Start Apache and MySQL in XAMPP.
+7. Open the project through `http://localhost/`.
 
-   This project is intended for local development and educational/project use.
+## Notes
+
+This project is intended for local development and educational/project use.
